@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.MyApplication2" parent="android:Theme.Material.Light.NoActionBar"></style>
+    
+    <style name="Theme.MyApplication2" parent="Base.Theme.MyApplication2">
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
